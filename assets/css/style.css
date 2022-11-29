@@ -18,6 +18,9 @@ header h1{
 main{
     height: 730px;
     background-image: url(../img/bg-header.jpg);
+    background-color: #000000;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 .contain{
     width: 100%;
